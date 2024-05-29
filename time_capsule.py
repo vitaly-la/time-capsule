@@ -4,7 +4,7 @@ import os
 import secrets
 import sys
 
-BOUND: int = 1000
+BOUND: int = 10000
 PIECES: int = 10000
 
 
